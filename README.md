@@ -1,1 +1,1 @@
-# JS-Adanced-Homework
+# JS-Advanced-Homework
